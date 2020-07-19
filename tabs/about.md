@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sobre
 
 # The About page
 # v2.0
@@ -8,4 +8,6 @@ title: About
 # MIT License
 ---
 
-Somos o grupo de pessoas usuárias e profissionais Apache Kafka no Brasil. Veja mais em nosso site oficial: https://kafkabr.com
+Somos o grupo de pessoas usuárias e profissionais Apache Kafka no Brasil.
+
+- Veja mais em nosso site oficial: [https://kafkabr.com](https://kafkabr.com)
