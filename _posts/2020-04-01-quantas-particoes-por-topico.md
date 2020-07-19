@@ -2,8 +2,8 @@
 title:  Quantas Partições por Tópico?
 author: fabiojose
 date:   2020-04-01 22:03:36 -0300
-categories: [Artigos, Partition]
-tags: [número de partições]
+categories: [Artigos, Partição]
+tags: [número de partições, cálculos]
 toc: false
 ---
 

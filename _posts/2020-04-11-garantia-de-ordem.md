@@ -2,7 +2,7 @@
 title:  Garantia de Ordem
 author: fabiojose
 date:   2020-04-11 22:03:36 -0300
-categories: [Artigos, Producer]
+categories: [Artigos, Produtor]
 tags: [event sourcing, ordenação, retentativa]
 toc: false
 ---
