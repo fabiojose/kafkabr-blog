@@ -2,8 +2,8 @@
 title:  Integração com Mainframe
 author: fabiojose
 date:   2020-07-15 22:03:36 -0300
-categories: [Links, Offloading]
-tags: [mainframe, modernização]
+categories: [Links, Modernização]
+tags: [mainframe, offloading]
 toc: false
 ---
 
