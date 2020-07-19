@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+Somos o grupo de pessoas usuárias e profissionais Apache Kafka no Brasil. Veja mais em nosso site oficial: https://kafkabr.com
