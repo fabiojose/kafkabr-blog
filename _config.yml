@@ -24,6 +24,16 @@ author: fabiojose                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
+authors:
+  fabiojose:
+    name: fabiojose
+    display_name: fabiojose
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: fabiojose@kafkabr.com
+    web: https://kafkabr.com
+    twitter: https://twitter.com/fabioj0se
+    description: ""
+
 github:
   username: fabiojose             # change to your github username
 
