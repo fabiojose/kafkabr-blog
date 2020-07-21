@@ -1,5 +1,5 @@
 ---
-title:  Compactação e Compressão no Apache Kafka
+title:  Consumindo Registros com Spring Boot
 author: fabiojose
 date:   2020-04-28 22:03:36 -0300
 categories: [Artigos, Consumidor]
