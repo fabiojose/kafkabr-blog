@@ -17,6 +17,7 @@ layout: default
 
       <div class="post-meta text-muted d-flex flex-column">
         <!-- Published date and author -->
+        {% assign author = site.authors[page.author] %}
         <div>
           Posted
           <span class="timeago" data-toggle="tooltip" data-placement="bottom"
@@ -27,7 +28,7 @@ layout: default
           by
           <span class="author">
           {% if page.author %}
-            {{ page.author }}
+            <a target="_blank" href="{{ author.web }}">{{ page.author }}</a>
           {% else%}
             {{ site.author }}
           {% endif %}
