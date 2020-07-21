@@ -3,7 +3,7 @@ title:  Erros Comuns ao Configurar o Kafka Connect
 author: fabiojose
 date:   2020-07-17 22:03:36 -0300
 categories: [Links, Kafka Connect]
-tags: [dicas, configurações, erros comuns]
+tags: [dicas, configurações, erros comuns, rmoff]
 toc: false
 ---
 
