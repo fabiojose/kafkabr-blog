@@ -3,7 +3,7 @@ title:  Detalhes Sobre Kafka Streams
 author: fabiojose
 date:   2020-07-20 11:03:36 -0300
 categories: [Links, Kafka Streams]
-tags: [slides, kafka-streams, streaming]
+tags: [slides, kafka-streams, streaming, fhussonnois]
 toc: false
 ---
 
