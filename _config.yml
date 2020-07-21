@@ -35,6 +35,7 @@ social:
   email: fabiojose@kafkabr.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://kafkabr.com
     - https://twitter.com/fabioj0se      # change to your twitter homepage
     - https://github.com/fabiojose       # change to your github homepage
     # Uncomment below to add more social links
