@@ -5,11 +5,17 @@
   filename: 'slides-kafka-streams'
   lastmod: '2020-07-21 13:05:05 -0300'
 -
+  filename: 'zoe-katakoda'
+  lastmod: '2020-07-21 13:44:10 -0300'
+-
   filename: 'common-mistakes-kafka-connect'
   lastmod: '2020-07-21 13:06:10 -0300'
 -
   filename: 'garantia-de-ordem'
   lastmod: '2020-07-19 16:52:17 -0300'
+-
+  filename: 'trubka-cli'
+  lastmod: '2020-07-21 13:44:10 -0300'
 -
   filename: 'quantas-particoes-por-topico'
   lastmod: '2020-07-19 16:52:17 -0300'
