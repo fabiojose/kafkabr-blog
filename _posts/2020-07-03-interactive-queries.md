@@ -3,7 +3,7 @@ title:  Interactive Queries no Kafka Streams
 author: fabiojose
 date:   2020-07-03 11:03:36 -0300
 categories: [Links, Kafka Streams]
-tags: [streaming]
+tags: [kafka-streams, streaming]
 toc: false
 ---
 
