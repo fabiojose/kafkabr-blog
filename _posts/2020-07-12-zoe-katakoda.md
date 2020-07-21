@@ -3,7 +3,7 @@ title:  Zoe CLI - curso grátis no KataCoda
 author: fabiojose
 date:   2020-07-12 22:03:36 -0300
 categories: [Links, Cursos]
-tags: [cli, cursos, zoe, katacoda]
+tags: [cli, cursos, zoe, katacoda, ferramentas]
 toc: false
 ---
 
