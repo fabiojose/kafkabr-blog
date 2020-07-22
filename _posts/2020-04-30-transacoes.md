@@ -1,9 +1,9 @@
 ---
-title: Idempotência nos Produtores
+title: Transações nos Produtores
 author: fabiojose
 date:   2020-04-30 11:03:36 -0300
 categories: [Exemplos de Código, Produtor]
-tags: [produtor, configuração, snippet, consumidor]
+tags: [produtor, configuração, snippet, consumidor, transação]
 toc: false
 ---
 
