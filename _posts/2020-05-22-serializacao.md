@@ -2,7 +2,7 @@
 title: Serialização de Eventos
 author: fabiojose
 date:   2020-05-22 11:03:36 -0300
-categories: [Links, Registro]
+categories: [Exemplos de Código, Serialização]
 tags: [snippet, registro, serializacao, produtor, consumidor]
 toc: false
 ---

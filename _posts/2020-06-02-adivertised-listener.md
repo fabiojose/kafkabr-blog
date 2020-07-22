@@ -2,8 +2,8 @@
 title: Advertised Listener
 author: fabiojose
 date:   2020-06-02 11:03:36 -0300
-categories: [Links, Operação]
-tags: [cluster, configuração, rmoff, snippet]
+categories: [Exemplos de Código, Operação]
+tags: [cluster, configuração, rmoff, snippet, operação]
 toc: false
 ---
 
