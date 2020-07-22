@@ -3,7 +3,7 @@ title: Advertised Listener
 author: fabiojose
 date:   2020-06-02 11:03:36 -0300
 categories: [Links, Operação]
-tags: [cluster, configuração, rmoff]
+tags: [cluster, configuração, rmoff, snippet]
 toc: false
 ---
 

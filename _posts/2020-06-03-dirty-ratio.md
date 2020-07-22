@@ -3,7 +3,7 @@ title: Como Implantar Apache Kafka no Kubernetes - Parte 1
 author: fabiojose
 date:   2020-06-03 11:03:36 -0300
 categories: [Links, Tópico]
-tags: [tópico, configuração]
+tags: [tópico, configuração, snippet]
 toc: false
 ---
 

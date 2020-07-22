@@ -3,7 +3,7 @@ title:  Medir Performance de Escrita no Cluster
 author: fabiojose
 date:   2020-06-05 22:03:36 -0300
 categories: [Links, Produtor]
-tags: [dicas, performance, produtor]
+tags: [dicas, performance, produtor, snippet]
 toc: false
 ---
 
