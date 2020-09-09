@@ -38,6 +38,9 @@
   filename: 'offloading-mainframe'
   lastmod: '2020-07-19 18:08:37 -0300'
 -
+  filename: 'kafka-client-quotas'
+  lastmod: '2020-09-09 06:37:10 -0300'
+-
   filename: 'medir-performance-escrita-cluster'
   lastmod: '2020-07-22 15:08:39 -0300'
 -
