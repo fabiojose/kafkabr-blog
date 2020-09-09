@@ -5,7 +5,7 @@ date:   2020-09-09 05:50:36 -0300
 categories: [Artigos, Avaliação]
 tags: [produtor, consumidor, admin-api, cotas, kip]
 toc: false
-image: assets/img/denys-nevozhai-7nrsVjvALnA-unsplash.jpg
+image: /assets/img/denys-nevozhai-7nrsVjvALnA-unsplash.jpg
 ---
 
 O Apache Kafka® sempre teve uma forma para determinar cotas
