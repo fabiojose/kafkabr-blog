@@ -5,6 +5,7 @@ date:   2020-09-09 05:50:36 -0300
 categories: [Artigos, Avaliação]
 tags: [produtor, consumidor, admin-api, cotas, kip]
 toc: false
+image: assets/img/denys-nevozhai-7nrsVjvALnA-unsplash.jpg
 ---
 
 O Apache Kafka® sempre teve uma forma para determinar cotas
@@ -50,3 +51,7 @@ kafka-client-quotas.sh --bootstrap-server localhost:9092 \
                        --names='user=conta_corrente' \
                        --add='consumer_byte_rate=2048'
 ```
+
+---
+
+<span>Photo by <a href="https://unsplash.com/@dnevozhai?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Denys Nevozhai</a> on <a href="https://unsplash.com/s/photos/network-traffic?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
