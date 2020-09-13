@@ -5,7 +5,7 @@ date:   2020-09-13 07:13:37 -0300
 categories: [Artigos, Transações]
 tags: [produtor, consumidor, transação]
 toc: false
-image: /assets/img/cytonn-photography-n95VMLxqM2I-unsplash.jpg'
+image: /assets/img/cytonn-photography-n95VMLxqM2I-unsplash.jpg
 ---
 
 A partir da versão 0.11.0,  Kafka introduz transações na API do Produtor, garantido que exatamente todos os eventos serão produzidos ou exatamente nenhum em caso de erro.
