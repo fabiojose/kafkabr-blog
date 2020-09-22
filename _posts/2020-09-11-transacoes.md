@@ -51,7 +51,7 @@ em andamento receberá um erro ao confirmá-la ou abortá-la.
 
 ## Usando Transações
 
-> Código-fonte completo: https://github.com/kafkabr/transacional-java
+> Código-fonte completo: [https://github.com/kafkabr/transacional-java](https://github.com/kafkabr/transacional-java)
 
 Depois de configurar o produtor, agora é hora de colocar em prática.
 
@@ -147,7 +147,7 @@ try{
 Acesse o código fonte completo no Github, ele está completo e você utilizá-lo como 
 base para seus estudos e projetos.
 
-- https://github.com/kafkabr/transacional-java 
+- [https://github.com/kafkabr/transacional-java](https://github.com/kafkabr/transacional-java)
 
 ## E os Consumidores?
 
