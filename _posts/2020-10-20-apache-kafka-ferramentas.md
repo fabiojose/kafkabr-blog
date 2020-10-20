@@ -4,7 +4,7 @@ author: fabiojose
 date: 2020-10-20 05:21:37 -0300
 categories: [Artigos, Comparativo]
 tags: [ferramentas, cli, console, tools]
-toc: false
+toc: true
 image: /assets/img/cesar-carlevarino-aragon-NL_DF0Klepc-unsplash.jpg
 ---
 
