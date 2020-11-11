@@ -68,8 +68,8 @@ Não se engane, é somente uma ilusão mesmo.
 
 Ao contrário de filas tradicionais, que entregam assim-que-possível,
 no Kafka os eventos produzidos são loteados para uso
-racional da banda de rede e compressão. Portanto ao serem produzidos, os 
-eventos ainda permaneceram na origem por algum tempo.
+racional da banda de rede e compressão. Portanto ao serem produzidos eles
+ainda permaneceram na origem por algum tempo.
 
 Este comportamento é definido por configurações no Producer Apache Kafka®:
 
@@ -87,9 +87,9 @@ reconhecimento de entrega.
 Isto é determinado pelas seguintes configurações:
 
 - [retries](https://kafka.apache.org/documentation/#linger.ms): quantos
-reenvios tentar em meio a falha de entrega
-- [acks](https://kafka.apache.org/documentation/#acks): reconhecimento de
-entrega dos eventos ao broker
+reenvios a tentar em meio a falha de entrega
+- [acks](https://kafka.apache.org/documentation/#acks): reconhecimento pelo broker
+sobre os recebimento dos eventos
 - [max.in.flight.requests.per.connection](https://kafka.apache.org/documentation/#max.in.flight.requests.per.connection):
 quantas entregas aguardarão reconhecimento simultaneamente.
 - [delivery.timeout.ms](https://kafka.apache.org/documentation/#delivery.timeout.ms):
@@ -132,7 +132,7 @@ quantidade mínima de bytes que devem existir no tópico para serem consumidos
 - [max.partition.fetch.bytes](https://kafka.apache.org/documentation/#max.partition.fetch.bytes):
 quantidade máxima de bytes a serem lidos de cada partição
 - [fetch.max.bytes](https://kafka.apache.org/documentation/#fetch.max.bytes):
-quantidade máximo de bytes que devem ser lidos do tópico
+quantidade máxima de bytes que devem ser lidos do tópico
 - [max.poll.records](https://kafka.apache.org/documentation/#max.poll.records):
 quantidade de eventos que devem ser lidos do tópico
 - [fetch.max.wait.ms](https://kafka.apache.org/documentation/#fetch.max.wait.ms):
@@ -166,12 +166,12 @@ Kafka não é fila. Ele implementa uma característica das filas. Que é:
 - dado um evento, este será processado por extamente um Consumer
 (dentro do grupo de consumo).
 
-Este é um resumo sobre sete itens abordados sobre Apache Kafka®:
+E este é um resumo sobre os sete itens abordados:
 
 1. __Durabilidade__: os eventos são duráveis
 2. __Garantia de Ordem__: não existe ordenação global no tópico
 3. __Partições__: unidades para paralelizar o consumo e ordenação local
-4. __Lotes__: produzir e consumir eventos é sempre em lote
+4. __Lotes__: produzir e consumir eventos em lote
 5. __Retentativas__: são executadas de forma transparente
 6. __Grupo de Consumo__: é o que faz Kafka ser muito diferente
 7. __Idempotência__: sempre tenha isso em mente
