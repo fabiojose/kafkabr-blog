@@ -53,8 +53,8 @@ ou seja, existe a garantia de que a ordem em que foram persistidos será
 globalmente mantida.
 
 Um tópico no Apache Kafka® é subdivido em partições e a garantia de ordem é
-somente neste nível. Então, tópicos com várias partições não existe ordenação
-global entre elas, somente localmente em cada uma.
+somente neste nível. Então, nos tópicos com várias partições não existe ordenação
+global entre elas.
 
 Os detalhes sobre esta garantia estão no quarto paragráfo da 
 [documentação oficial](https://kafka.apache.org/documentation/#intro_concepts_and_terms)
