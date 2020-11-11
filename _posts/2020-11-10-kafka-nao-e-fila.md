@@ -1,7 +1,7 @@
 ---
 title: Apache Kafka® é uma fila?
 author: fabiojose
-date: 2020-01-10 06:38:37 -0300
+date: 2020-11-10 06:38:37 -0300
 categories: [Artigos, Avaliação]
 tags: [fila, aprendizado]
 toc: true
