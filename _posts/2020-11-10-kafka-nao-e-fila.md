@@ -58,7 +58,7 @@ global entre elas.
 
 Os detalhes sobre esta garantia estão no quarto paragráfo da 
 [documentação oficial](https://kafka.apache.org/documentation/#intro_concepts_and_terms)
-deixando muito claro qual será o comportamento.
+, deixando muito claro qual será o comportamento.
 
 Como você deve pensar, tópicos com apenas uma partição tem comportamento similar
 ao de fila. Então haverá [a ilusão de que adicionar mais partições irá escalá-la](https://blog.kafkabr.com/posts/erros-comuns-iniciantes/#criar-o-primeiro-t%C3%B3pico-com-apenas-uma-parti%C3%A7%C3%A3o).
