@@ -5,6 +5,7 @@ date: 2021-09-25 06:38:37 -0300
 categories: [Artigos, Avaliação]
 tags: [producer, produtor, consumer, consumidor, cota, quota]
 toc: true
+image: /assets/img/jason-richard-naK1i6nCuqc-unsplash.jpg
 ---
 
 - a.k.a. [request_percentage](request_percentage)
